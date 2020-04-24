@@ -1,4 +1,4 @@
-module noise_aea
+module github.com/lrahmani/aea_nose_node
 
 go 1.13
 
