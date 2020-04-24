@@ -8,7 +8,8 @@ import (
 	"errors"
 	"github.com/perlin-network/noise"
 	"github.com/perlin-network/noise/kademlia"
-	"time"
+  "github.com/lrahmani/aea_nose_node/api"	
+  "time"
 )
 
 // check panics if err is not nil.
