@@ -8,7 +8,7 @@ import (
 	"errors"
 	"github.com/perlin-network/noise"
 	"github.com/perlin-network/noise/kademlia"
-  "github.com/lrahmani/aea_nose_node/aea"	
+  "github.com/lrahmani/aea_nose_node"	
   "time"
 )
 
